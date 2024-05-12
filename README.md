@@ -6,6 +6,10 @@ I am bad with math and I am known to over tip.
 
 This app actually helps me calculate the appropirate amount when it comes to splitting a bill along with adding tip
 
+Main things I learned from this:
+
+basic structure of SwiftUI apps, how to build forms and sections, creating navigation stacks and navigation bar titles, how to store program state with the @State and @FocusState property wrappers, how to create user interface controls like TextField and Picker, and how to create views in a loop using ForEach
+
 
 
 ![Simulator Screenshot - iPhone 14 Pro - 2024-05-12 at 09 19 22](https://github.com/tunabearfish/WeSplit/assets/65553627/3187858c-f7bf-4b20-8dc3-89b2450a0f0a)
